@@ -102,5 +102,6 @@ color: orange;
   background-color: #282c34;
   border-color: white;
   cursor: pointer;
+  text-decoration: none;
   margin-top: 20px;
 }
