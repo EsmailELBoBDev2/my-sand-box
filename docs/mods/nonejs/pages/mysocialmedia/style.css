@@ -138,3 +138,7 @@ color: orange;
   cursor: pointer;
   margin-top: 20px;
 }
+
+#back:hover {
+  color:white;
+}
