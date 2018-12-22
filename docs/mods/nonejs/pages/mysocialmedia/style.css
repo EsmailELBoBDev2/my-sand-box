@@ -53,10 +53,18 @@ text-decoration: none;
 color: white;
 }
 
+#wire:hover {
+  color: white;
+}
+
 #reddit {
 cursor: pointer;
 text-decoration: none;
 color: orange;
+}
+
+#reddit:hover {
+  color: white;
 }
 
 #pixelfed {
@@ -65,10 +73,18 @@ text-decoration: none;
 color: purple;
 }
 
+#pixelfed:hover {
+  color: white;
+}
+
 #mastodon {
 cursor: pointer;
 text-decoration: none;
 color: darkblue;
+}
+
+#mastodon:hover {
+color: white;
 }
 
 #paypal {
@@ -77,10 +93,18 @@ text-decoration: none;
 color: blue;
 }
 
+#paypal:hover {
+  color: white;
+}
+
 #spotify {
 cursor: pointer;
 text-decoration: none;
 color: green;
+}
+
+#spotify:hover {
+  color: white;
 }
 
 #github {
@@ -89,10 +113,18 @@ text-decoration: none;
 color: black;
 }
 
+#github:hover{ 
+color: white;
+ }
+
 #gitlab {
 cursor: pointer;
 text-decoration: none;
 color: orange;
+}
+
+#gitlab:hover {
+  color: white;
 }
 
 #back {
