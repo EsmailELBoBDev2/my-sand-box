@@ -1,0 +1,131 @@
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 0px;
+}
+
+#site-name {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.mods {
+  display: flex;
+  justify-content: center;
+}
+
+#light-mode {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+#• {
+  font-size: 30px;
+}
+
+#dark-mode {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.social-media {
+  margin-top: 20px;
+  font-size: 50px;
+  visibility: hidden;
+}
+
+#mewe {
+  cursor: pointer;
+  text-decoration: none;
+  color: darkcyan;
+}
+
+#minds {
+  cursor: pointer;
+  text-decoration: none;
+  color: yellow;
+}
+
+#reddit {
+  cursor: pointer;
+  text-decoration: none;
+  color: orange;
+}
+
+#jabber {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+#wire {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+#github {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+#peertube {
+  cursor: pointer;
+  text-decoration: none;
+  color: orange;
+}
+
+#dtube {
+  cursor: pointer;
+  text-decoration: none;
+  color: red;
+}
+
+#gitlab {
+  cursor: pointer;
+  text-decoration: none;
+  color: darkorange;
+}
+
+#my-mail {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  font-size: 40px;
+}
+
+#back {
+  width: 313px;
+  height: 59px;
+  font-size: 35px;
+  color: #939caa;
+  cursor: pointer;
+  text-decoration: underline;
+  margin-top: 20px;
+}
+
+#solve-captcha {
+  width: 313px;
+  height: 59px;
+  font-size: 35px;
+  color: #939caa;
+}
+
+.captcha {
+  margin-top: 99px;
+}
+
+#captcha-text { 
+  width: 313px;
+  height: 59px;
+  font-size: 35px;
+  color: #939caa;
+}

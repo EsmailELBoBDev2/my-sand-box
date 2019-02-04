@@ -1,8 +1,5 @@
 body {
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
+  margin: 0px;
   text-align: center;
 }
 
@@ -60,23 +57,20 @@ body {
   margin-bottom: 5px;
   font-weight: 500;
   margin-top: 20px;
-  text-align: center;
 }
 
-.social-media {
+.accounts {
   display: flex;
   justify-content: center;
   margin-top: 20px;
 }
 
-#socialmedia {
+#accounts {
   width: 313px;
   height: 59px;
   font-size: 35px;
-  border-style: dashed;
   color: #939caa;
   background-color: #282c34;
-  border-color: white;
   cursor: pointer;
 }
 
@@ -104,6 +98,5 @@ body {
   font-weight: 1000;
   font-size: 25px;
   color: #939caa;
-  text-decoration: none;
   cursor: pointer;
 }
